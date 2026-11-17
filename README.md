@@ -46,4 +46,3 @@ An ideal low-pass filter suppresses high-frequency noise, but its sharp cutoff m
 ## Context
 
 Academic Digital Signal Processing laboratory project by Yahya Al Afifi and teammates, Islamic University of Gaza.
-
